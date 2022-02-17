@@ -5,4 +5,4 @@
  
 
 ##### Informações úteis
- - Caso desejar, poderá baixar o programa compilado em: [Download da Calculadora](https://github.com/mr-fabiosantos)
+ - Caso desejar, poderá baixar o programa compilado aqui: [Download da Calculadora](https://github.com/mr-fabiosantos/Calculadora/raw/master/dist/Calculadora.jar)
